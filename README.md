@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yu Zhang 👋
 
-<!--
-**TuZNB/TuZNB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Ph.D. Student 
+🔬 Medical AI | Vision-Language Models | Multimodal Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Medical Vision-Language Models
+- Reasoning in VLMs
+
+## 📚 Selected Publications
+
+### Paper Title
+*Conference / Journal, 2026*
+
+### Another Paper
+*Conference / Journal, 2026*
+
+Brief description of the paper.
+
+## 🛠️ Research & Technical Skills
+
+**Languages:** Python
+
+**Models:** LLMs, VLMs, Medical VLMs
+
+## 📫 Contact
+
+- Email: yu.zhang22@student.xjtlu.edu.cn
+---
+
+⭐ Thanks for visiting my profile!
