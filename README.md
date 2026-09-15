@@ -13,7 +13,7 @@
 ## 📚 Selected Publications
 
 ### Paper Title
-*Conference / Journal, 2026*
+* International Conference on Neural Information Processing 2026*
 
 ### Another Paper
 *Conference / Journal, 2026*
