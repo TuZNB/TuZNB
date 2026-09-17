@@ -13,12 +13,15 @@
 ## 📚 Selected Publications
 
 ### Paper Title
+First Author
 * Guiding A Visual-Language Model to Generate
 Clinical Reasoning via Structured Mechanisms( International Conference on Neural Information Processing 2026, CCF-C )
 
 * Enhancing vision-language model with pretraining for reasoning 
 medical applications ( Computerized Medical Imaging and Graphics, JCR-Q1 )
 
+Co-Author
+* Multimorbidity-Aware Proxy Latent Inference for Report-Conditioned 3D CT Generation ( Journal of Imaging Informatics in Medicine, JCR Q1)
 
 ### Another Paper
 *Conference / Journal, 2026*
