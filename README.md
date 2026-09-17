@@ -10,7 +10,7 @@
 - Medical Vision-Language Models
 - Reasoning in VLMs
 
-## 📚 Selected Publications
+## 📚 Publications
 
 ### Paper Title
 First Author
@@ -23,8 +23,8 @@ medical applications ( Computerized Medical Imaging and Graphics, JCR-Q1 )
 Co-Author
 * Multimorbidity-Aware Proxy Latent Inference for Report-Conditioned 3D CT Generation ( Journal of Imaging Informatics in Medicine, JCR Q1)
 
-### Another Paper
-*Conference / Journal, 2026*
+
+
 
 ## 🛠️ Research & Technical Skills
 
